@@ -113,7 +113,11 @@ diet and budget. Get personalised picks with real Amazon.in prices.
 - ✅ Filter by brand, budget, goal and diet type
 - ✅ Built specifically for the Indian market
 
+---
 
+Wheysearch USA - https://wheysearch.com/en-us/blog
+
+Wheysearch Canada - https://wheysearch.com/en-ca/blog
 
 ---
 
