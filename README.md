@@ -115,9 +115,9 @@ diet and budget. Get personalised picks with real Amazon.in prices.
 
 ---
 
-Wheysearch USA - https://wheysearch.com/en-us/blog
+Wheysearch USA - <https://wheysearch.com/en-us/blog>
 
-Wheysearch Canada - https://wheysearch.com/en-ca/blog
+Wheysearch Canada - <https://wheysearch.com/en-ca/blog>
 
 ---
 
